@@ -14,7 +14,6 @@ I'm Eduardo and I work as software engineer (frontend) at RD Station. I like to 
   <img alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth="40" width="40" />
   <img alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" heigth="40" width="40" />
   <img alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" heigth="40" width="40"  />
-  <img alt="nestjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" heigth="40" width="40" />
   <img alt="reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigth="40" width="40" />
   <img alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" heigth="40" width="40" />
 </div>
