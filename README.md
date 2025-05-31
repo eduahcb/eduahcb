@@ -2,8 +2,6 @@
 
 I'm Eduardo and I work as software engineer (frontend) at RD Station. I like to study hard and learn new technologies and languages. You can learn more about me by accessing this link:
 
-[about me](https://juniper-gallium-105.notion.site/My-Workspace-7f732c00fa0f441d8aa23e5ec7ba1b40)
-
 #
 
 <div style="display: inline-block;">
