@@ -1,8 +1,7 @@
 # Hello World!
 
-I'm Eduardo and I work as software engineer (frontend) at RD Station. I like to study hard and learn new technologies and languages. You can learn more about me by accessing this link:
+I'm Eduardo and I work as software engineer (frontend) at RD Station. I like to study hard and learn new technologies and languages.
 
-#
 
 <div style="display: inline-block;">
   <img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="40" width="40" />
@@ -16,6 +15,6 @@ I'm Eduardo and I work as software engineer (frontend) at RD Station. I like to 
 </div>
 
 
-#
+[![GitHub Streak](https://streak-stats.demolab.com?user=ednahcb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduahcb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
