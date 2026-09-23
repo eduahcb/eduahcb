@@ -17,4 +17,6 @@ I'm Eduardo and I work as software engineer (frontend) at RD Station. I like to 
 #
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eduahcb&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=eduahcb&layout=compact&langs_count=6&theme=dark_github)
+
+#
 [![GitHub Streak](https://streak-stats.demolab.com?user=eduahcb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
